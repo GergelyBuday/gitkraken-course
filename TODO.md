@@ -2,8 +2,11 @@
 
 ## My shopping list
 
-+ [ ] Eggs
-+ [ ] Milk
-+ [ ] Flour
-+ [ ] Sausages
-+ [ ] Vegetables 
++ [x] Eggs
++ [x] Milk
++ [x] Flour
++ [x] Sausages
++ [x] Vegetable Oil
++ [ ] Bread
++ [ ] Marmite
++ [ ] Carrots
